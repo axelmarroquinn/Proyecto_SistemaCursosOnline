@@ -9,10 +9,7 @@ Bienvenido al sistema de gestión de cursos en línea, creado con Windows Forms,
 *** ESPECIFICACIONES ***
 - Proyecto realizado con Windows Forms, C# y SQL Server 2022.
 - Sistema de gestión de cursos online con roles de: Administrador, Catedrático y Estudiante.
-- Usuarios de prueba: 
-	admin@school.com - Contraseña: admin123
-	catedratico@school.com - Contraseña: catedratico123
-	estudiante@school.com - Contraseña: estudiante123
+- Usuarios de prueba: admin@school.com - Contraseña: admin123 //// catedratico@school.com - Contraseña: catedratico123 //// estudiante@school.com - Contraseña: estudiante123
 
 *** EXTRAS ***
 - Proyecto Final de Programación II.
