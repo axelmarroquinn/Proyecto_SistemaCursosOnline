@@ -1,0 +1,10 @@
+C:\Users\Usuario\Programación\Proyectos\PROYECTO_CURSOS\EstudianteProject\bin\Debug\EstudianteProject.exe.config
+C:\Users\Usuario\Programación\Proyectos\PROYECTO_CURSOS\EstudianteProject\bin\Debug\EstudianteProject.exe
+C:\Users\Usuario\Programación\Proyectos\PROYECTO_CURSOS\EstudianteProject\bin\Debug\EstudianteProject.pdb
+C:\Users\Usuario\Programación\Proyectos\PROYECTO_CURSOS\EstudianteProject\obj\Debug\EstudianteProject.csproj.AssemblyReference.cache
+C:\Users\Usuario\Programación\Proyectos\PROYECTO_CURSOS\EstudianteProject\obj\Debug\EstudianteProject.FormEstudiante.resources
+C:\Users\Usuario\Programación\Proyectos\PROYECTO_CURSOS\EstudianteProject\obj\Debug\EstudianteProject.Properties.Resources.resources
+C:\Users\Usuario\Programación\Proyectos\PROYECTO_CURSOS\EstudianteProject\obj\Debug\EstudianteProject.csproj.GenerateResource.cache
+C:\Users\Usuario\Programación\Proyectos\PROYECTO_CURSOS\EstudianteProject\obj\Debug\EstudianteProject.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Programación\Proyectos\PROYECTO_CURSOS\EstudianteProject\obj\Debug\EstudianteProject.exe
+C:\Users\Usuario\Programación\Proyectos\PROYECTO_CURSOS\EstudianteProject\obj\Debug\EstudianteProject.pdb

@@ -1,0 +1,10 @@
+C:\Users\Usuario\Programación\Proyectos\PROYECTO_CURSOS\AdminProject\bin\Debug\AdminProject.exe.config
+C:\Users\Usuario\Programación\Proyectos\PROYECTO_CURSOS\AdminProject\bin\Debug\AdminProject.exe
+C:\Users\Usuario\Programación\Proyectos\PROYECTO_CURSOS\AdminProject\bin\Debug\AdminProject.pdb
+C:\Users\Usuario\Programación\Proyectos\PROYECTO_CURSOS\AdminProject\obj\Debug\AdminProject.csproj.AssemblyReference.cache
+C:\Users\Usuario\Programación\Proyectos\PROYECTO_CURSOS\AdminProject\obj\Debug\AdminProject.FormAdmin.resources
+C:\Users\Usuario\Programación\Proyectos\PROYECTO_CURSOS\AdminProject\obj\Debug\AdminProject.Properties.Resources.resources
+C:\Users\Usuario\Programación\Proyectos\PROYECTO_CURSOS\AdminProject\obj\Debug\AdminProject.csproj.GenerateResource.cache
+C:\Users\Usuario\Programación\Proyectos\PROYECTO_CURSOS\AdminProject\obj\Debug\AdminProject.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Programación\Proyectos\PROYECTO_CURSOS\AdminProject\obj\Debug\AdminProject.exe
+C:\Users\Usuario\Programación\Proyectos\PROYECTO_CURSOS\AdminProject\obj\Debug\AdminProject.pdb

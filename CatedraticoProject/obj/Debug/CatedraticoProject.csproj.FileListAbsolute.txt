@@ -1,0 +1,10 @@
+C:\Users\Usuario\Programación\Proyectos\PROYECTO_CURSOS\CatedraticoProject\bin\Debug\CatedraticoProject.exe.config
+C:\Users\Usuario\Programación\Proyectos\PROYECTO_CURSOS\CatedraticoProject\bin\Debug\CatedraticoProject.exe
+C:\Users\Usuario\Programación\Proyectos\PROYECTO_CURSOS\CatedraticoProject\bin\Debug\CatedraticoProject.pdb
+C:\Users\Usuario\Programación\Proyectos\PROYECTO_CURSOS\CatedraticoProject\obj\Debug\CatedraticoProject.csproj.AssemblyReference.cache
+C:\Users\Usuario\Programación\Proyectos\PROYECTO_CURSOS\CatedraticoProject\obj\Debug\CatedraticoProject.FormCatedratico.resources
+C:\Users\Usuario\Programación\Proyectos\PROYECTO_CURSOS\CatedraticoProject\obj\Debug\CatedraticoProject.Properties.Resources.resources
+C:\Users\Usuario\Programación\Proyectos\PROYECTO_CURSOS\CatedraticoProject\obj\Debug\CatedraticoProject.csproj.GenerateResource.cache
+C:\Users\Usuario\Programación\Proyectos\PROYECTO_CURSOS\CatedraticoProject\obj\Debug\CatedraticoProject.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Programación\Proyectos\PROYECTO_CURSOS\CatedraticoProject\obj\Debug\CatedraticoProject.exe
+C:\Users\Usuario\Programación\Proyectos\PROYECTO_CURSOS\CatedraticoProject\obj\Debug\CatedraticoProject.pdb
